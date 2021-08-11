@@ -1,0 +1,213 @@
+#header_1{
+    background-color: #42230f7d!important;
+    color: #13171a;
+    float: center;
+    padding-left: 50%;
+}
+
+
+#nav{
+    background-color: #42230f7d!important;
+    padding-left: 500px;
+    padding-right: 530px;
+}
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .d-block1{
+      height: 500px;
+    background: no-repeat;
+     
+  }
+
+
+#pa_1{
+      font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    margin-top: 25px;
+    letter-spacing: 7px;
+}
+
+#pa_2{
+      font-size: 22px;
+    color: #fff;
+    margin-top: 17px;
+   /* margin-left: 210px;*/
+   letter-spacing: 7px;
+}
+#pa_31{
+      font-size: 55px;
+    color: #ddd;
+    padding-top: 16px;
+    margin-left: 43%;
+}
+#pa_3{
+      font-size: 55px;
+    color: #ddd;
+    padding-top: 166px;
+    margin-left: 43%;
+}
+#pa_4{
+      font-size: 22px;
+    color: #ddd;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+#learn-more {
+    /* margin-left: 210px;*/
+    margin-bottom: 18%;
+    border: 2px solid;
+    font-size: 20px;
+    color: #000000;
+    border-color: #f5f9ff;
+}
+#table1{
+
+    margin-bottom: 80px;
+
+}
+
+
+#table1 tr td {
+    color: #785637;
+    padding-left: 87px;
+    padding-right: 63px;
+        background-color: #00000000;;
+}
+
+#table1 tr h3 {
+    color: #f9cb90;
+}
+/**************************/
+* {
+  box-sizing: border-box;
+}
+#cards{
+
+  margin-top: 50px; 
+}
+
+/*************************************//***********************************/
+
+.see 
+{
+    margin-top: 40px; 
+    background-image: url("../pictures/nada.jpg");
+     -web it- background-size: cover;           
+     -moz-background-size: cover;     
+     -o-background-size: cover;                
+     background-size: cover;                    
+     background-color: #EEE;
+     height:800px;
+     width:99%;
+     background-position: center ;
+     position: relative ;
+}
+.see .overlay
+{   
+    position: absolute;
+    background-color:black;
+    opacity: 0.6;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+/* Start Testemonials */
+.Testemonials
+{   position: relative;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    overflow: hidden;
+    text-align: center;
+    z-index: 2;
+}
+.Testemonials q
+{   
+    line-height: 1.8;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.Testemonials h3
+{
+    color: rgb(202, 199, 199);
+     margin-bottom:  30px;
+}
+.Testemonials ul
+{
+    list-style: none;
+    padding-left:  0;
+    text-align: center;
+}
+.Testemonials ul li
+{
+    width: 15px;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 30px;
+    color: black;
+}
+.Testemonials ul li:hover
+{
+  
+}
+/* End Testemonials */
+/*  Start  Features */
+.features
+{   position: relative;
+    overflow: hidden;
+    padding-top: 90px;
+    padding-bottom: 50px;
+    z-index: 2;
+}
+.features .feat
+{
+     
+     width: 400px;
+     height :150px ;
+}
+.features .tree 
+{
+   
+    width: 400px;
+    height :150px ;
+    margin-left: 990px;
+}
+.features .tree ul li
+{
+    text-decoration: none ;
+    color: rgb(202, 199, 199);
+
+}
+.features .feat h2 { text-transform: uppercase;color:white;margin: 10px 0 20px 10px;  }
+.features .tree h2 { text-transform: uppercase;color: white;margin: 10px 0 20px 10px;  }
+
+.features .feat p
+{
+    line-height: 1.7;
+    margin: 0 0 0 10px;
+    color: rgb(202, 199, 199);
+}
+/* End  Features */
+
+/* Start footer */
+.footer
+{
+    background-color: #191E22;
+    color:  #6A6E71;
+    margin-right: 15px;
+    padding: 20px 0 ;
+    text-align: center;
+    overflow: hidden;
+}
+.footer span {float: left;}
+/* End footer */
